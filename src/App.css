@@ -1,0 +1,51 @@
+.main {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: stretch;
+}
+
+.item{
+	width: 14.28%;
+	float: center;
+	border: 1px black solid;
+	text-align: left;
+}
+
+.introduction0 {
+	text-align: center;
+}
+
+.introduction1 {
+	background-color: red;
+}
+
+.introduction2 {
+	background-color: orange;
+}
+
+.introduction3 {
+	background-color: lightyellow;
+}
+
+.introduction4 {
+	background-color: lawngreen;
+}
+
+.introduction5 {
+	background-color: lightblue;
+}
+
+.introduction6 {
+	background-color: mediumpurple;
+}
+
+.introduction7 {
+	background-color: lightgray;
+}
+
+[class *= "introduction"]{
+	border: 1px black solid;
+	font-size: 35px;
+
+}
