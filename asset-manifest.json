@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/laivDataBlog/static/css/main.fc2daa17.css",
+    "main.js": "/laivDataBlog/static/js/main.6815b48a.js",
+    "static/js/787.d0f763dd.chunk.js": "/laivDataBlog/static/js/787.d0f763dd.chunk.js",
+    "index.html": "/laivDataBlog/index.html",
+    "main.fc2daa17.css.map": "/laivDataBlog/static/css/main.fc2daa17.css.map",
+    "main.6815b48a.js.map": "/laivDataBlog/static/js/main.6815b48a.js.map",
+    "787.d0f763dd.chunk.js.map": "/laivDataBlog/static/js/787.d0f763dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc2daa17.css",
+    "static/js/main.6815b48a.js"
+  ]
+}
