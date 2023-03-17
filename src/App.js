@@ -196,8 +196,6 @@ function App() {
 					<br />
 					<li>useConfirm</li>
 					<br />
-					<li>usePreventLeave</li>
-					<br />
 					<li>useBeforeLeave</li>
 					<br />
 					<li>useFadeIn</li>
